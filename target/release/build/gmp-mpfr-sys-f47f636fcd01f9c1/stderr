@@ -1,0 +1,12 @@
+../../mpfr-src/src/exp2m1.c: In function 'mpfr_exp2m1':
+../../mpfr-src/src/exp2m1.c:67:16: warning: variable 'nloop' set but not used [-Wunused-but-set-variable=]
+   67 |   int inexact, nloop;
+      |                ^~~~~
+../../mpfr-src/src/exp10m1.c: In function 'mpfr_exp10m1':
+../../mpfr-src/src/exp10m1.c:62:16: warning: variable 'nloop' set but not used [-Wunused-but-set-variable=]
+   62 |   int inexact, nloop;
+      |                ^~~~~
+../../mpfr-src/tests/tdiv.c: In function ‘test_20070628’:
+../../mpfr-src/tests/tdiv.c:1081:13: warning: variable ‘err’ set but not used [-Wunused-but-set-variable=]
+ 1081 |   int inex, err = 0;
+      |             ^~~
